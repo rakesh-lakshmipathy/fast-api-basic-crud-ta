@@ -255,5 +255,3 @@ Try updating and deleting a product using the Swagger interface to verify that t
 - Swagger UI
 
 ---
-
-**Happy Coding! 🚀**
