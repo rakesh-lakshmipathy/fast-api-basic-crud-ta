@@ -140,7 +140,7 @@ class ProductCreate(BaseModel):
     description: str
     price: float = Field(gt=0, description="Price of the product")
     quantity: int = Field (ge=0, description="Quantity of the product")
-    category: StopAsyncIteration
+    category: str
 
 #get product
 class ProductResponse(ProductCreate):
