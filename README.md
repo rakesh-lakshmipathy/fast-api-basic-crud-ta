@@ -462,5 +462,3 @@ You can also test the API without authorization. It should return `401 Unauthori
 - Swagger UI
 
 ---
-
-**Happy Coding! 🚀**
